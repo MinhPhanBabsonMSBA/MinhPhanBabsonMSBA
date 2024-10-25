@@ -1,8 +1,7 @@
 ## Hello, I'm Minh Phan 👋 
 
-<!--
  🎓 Business Analytics Student at Babson College Graduate School of Business
-
+ 
 Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
 
 📊 About Me 
@@ -16,4 +15,4 @@ Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data an
 
 📚 Projects
 Explore my portfolio for examples of my work, showcasing how I apply these skills to solve real-world problems in data analytics.
--->
+
