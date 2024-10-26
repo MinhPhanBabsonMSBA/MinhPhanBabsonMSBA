@@ -22,5 +22,5 @@ Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data an
 
 | Projects  | Technology |
 | ------------- | ------------- |
-| [Linear and Logisitic Regression Data Analysis](Introduction/README.md)| Python  |
+| [Linear and Logisitic Regression Data Analysis](/Introduction/README.md)| Python  |
 | Content Cell  | Content Cell  |
