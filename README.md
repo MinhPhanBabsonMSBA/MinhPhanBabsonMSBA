@@ -17,8 +17,3 @@ Data Visualization: Proficient in Tableau for creating dynamic dashboards that m
 Data Management: Experienced in database design, modeling, and optimizing queries for efficient data retrieval. 
 
 Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data analysis and reporting tasks.
-
-📚 Projects
-
-Explore my portfolio for examples of my work, showcasing how I apply these skills to solve real-world problems in data analytics.
-
