@@ -20,7 +20,9 @@ Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data an
 
 💻 Projects
 
-| Projects  | Technology |
+# Python
+| Projects  | Description |
 | ------------- | ------------- |
-| [Linear and Logisitic Regression Data Analysis](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| Python  |
-| Content Cell  | Content Cell  |
+|[Linear and Logistic Regression Data Analysis](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| Python 
+|[Bikeshare Case Study],(https://public.tableau.com/app/profile/minh.phan7291/viz/MinhPhan-MSB6130BikeShare/Visualization1)| Tableau |
+
