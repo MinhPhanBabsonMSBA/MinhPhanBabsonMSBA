@@ -17,3 +17,10 @@ Data Visualization: Proficient in Tableau for creating dynamic dashboards that m
 Data Management: Experienced in database design, modeling, and optimizing queries for efficient data retrieval. 
 
 Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data analysis and reporting tasks.
+
+💻 Projects
+
+| Projects  | Technology |
+| ------------- | ------------- |
+| [Linear and Logisitic Regression Data Analysis](Introductions/README.md)| Python  |
+| Content Cell  | Content Cell  |
