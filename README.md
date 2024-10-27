@@ -20,10 +20,10 @@ Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data an
 
 💻 Projects
 
-| Projects  | Description |
-| ------------- | ------------- |
-|[Linear and Logistic Regression Data Analysis - Python](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| Using Linear and Logistic Regression, Hypothesis Testing and others statistical model to make predictions on chosen dependent variables from 
-|[Bikeshare Case Study - Tableau](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| Tableau |
+| Projects  | 
+| ------------- | 
+|[Linear and Logistic Regression Data Analysis - Python](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| 
+|[Bikeshare Case Study - Tableau](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| 
 
 
 
