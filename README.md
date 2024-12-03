@@ -8,7 +8,7 @@ Welcome to my portfolio! Here, you'll find a showcase of projects that demonstra
 
 I'm deeply interested in transforming data into actionable insights that drive decision-making and strategic improvements. My skill set includes:
 
-. Data Analysis & Reporting: Skilled in SQL for data querying, generating reports, and performing ad-hoc analysis. 
+Data Analysis & Reporting: Skilled in SQL for data querying, generating reports, and performing ad-hoc analysis. 
 
 Data Science & Programming: Skilled in Python (Jupyter Notebook) and R Studio for advanced data analysis and statistical modeling.
 
