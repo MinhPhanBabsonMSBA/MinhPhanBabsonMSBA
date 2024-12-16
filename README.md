@@ -25,6 +25,7 @@ Spreadsheet Analysis: Proficient in Google Sheets and Excel for advanced data an
 |[Film Rating and Collelge GPA Prediction Project - Python](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| 
 |[Capital Bikeshare Case Study - Tableau](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| 
 |[Wayfair Case Study - Tableau ](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) |
+|[AdventureWorks Customer Segmentation Analysis - SQL](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
 
 
 
