@@ -23,21 +23,21 @@ I'm deeply interested in transforming data into actionable insights that drive d
 💻 Tableau Projects
 | Projects | 
 | ------------- | 
-|[Capital Bikeshare Case Study - Tableau](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| 
-|[Wayfair Case Study - Tableau ](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) |
+|[Capital Bikeshare Case Study ](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| 
+|[Wayfair Case Study ](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) |
 --------------------------------------------------------------------------------------------------------------
 
 💻 Python Projects
 | Projects | 
 | ------------- | 
-|[Film Rating and Collelge GPA Prediction Project - Python](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| 
+|[Film Rating and Collelge GPA Prediction Project](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| 
 
 --------------------------------------------------------------------------------------------------------------
 
 💻 SQL Projects
 | Projects | 
 | ------------- | 
-|[AdventureWorks Customer Segmentation Analysis - SQL](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
+|[AdventureWorks Customer Segmentation Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
 
 
 
