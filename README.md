@@ -1,4 +1,4 @@
-## Hello, I'm Minh Phan 👋 
+## Hello, I'm Mike(Minh) Phan 👋 
 
  🎓 **Business Analytics Student at Babson College Graduate School of Business**
  
