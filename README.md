@@ -25,7 +25,7 @@ I'm deeply interested in transforming data into actionable insights that drive d
 | Projects | 
 | ------------- | 
 |[Capital Bikeshare Case Study ](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| 
-|[Wayfair Case Study ](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) |
+|[Wayfair Case Study ](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) |                                     
 --------------------------------------------------------------------------------------------------------------
 
 💻 Python Projects
@@ -46,4 +46,4 @@ I'm deeply interested in transforming data into actionable insights that drive d
 💻 R Projects
 | Projects | 
 | ------------- | 
-|[Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
+|[Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis)|
