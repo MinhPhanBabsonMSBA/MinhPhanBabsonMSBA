@@ -41,5 +41,9 @@ I'm deeply interested in transforming data into actionable insights that drive d
 |[AdventureWorks Customer Segmentation Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
 
 
+--------------------------------------------------------------------------------------------------------------
 
-
+💻 R Projects
+| Projects | 
+| ------------- | 
+|[Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
