@@ -1,5 +1,8 @@
 ## Hello, I'm Mike(Minh) Phan 👋 
 
+
+![](https://komarev.com/ghpvc/?username=MinhPhanBabsonMSBA)
+
  🎓 **Business Analytics Student at Babson College Graduate School of Business**
  
  Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
