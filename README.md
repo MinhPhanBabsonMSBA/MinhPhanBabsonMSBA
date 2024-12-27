@@ -1,7 +1,5 @@
-## Hello, I'm Mike(Minh) Phan 👋 
-
-
 ![](https://komarev.com/ghpvc/?username=MinhPhanBabsonMSBA)
+## Hello, I'm Mike(Minh) Phan 👋 
 
  🎓 **Business Analytics Student at Babson College Graduate School of Business**
  
