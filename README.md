@@ -21,29 +21,17 @@ I'm deeply interested in transforming data into actionable insights that drive d
 
 --------------------------------------------------------------------------------------------------------------
 
-💻 Tableau Projects
-| Projects | 
-| ------------- | 
-|[Capital Bikeshare Case Study ](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)| 
-|[Wayfair Case Study ](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) |                                     
---------------------------------------------------------------------------------------------------------------
-
-💻 Python Projects
-| Projects | 
-| ------------- | 
-|[Film Rating and Collelge GPA Prediction Project](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis)| 
-
---------------------------------------------------------------------------------------------------------------
-
-💻 SQL Projects
-| Projects | 
-| ------------- | 
-|[AdventureWorks Customer Segmentation Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)|
 
 
---------------------------------------------------------------------------------------------------------------
 
-💻 R Projects
-| Projects | 
-| ------------- | 
-|[Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis)|
+
+| Tableau Projects                              | Python Projects                                      | SQL Projects                                           | R Projects                            |
+|-----------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|---------------------------------------|
+| [Capital Bikeshare Case Study](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)          | [Film Rating and College GPA Prediction Project](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis) | [AdventureWorks Customer Segmentation Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)    | [Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis) |
+| [Wayfair Case Study](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study)                      |                                                     |                                                       |                                       |
+
+
+
+
+
+
