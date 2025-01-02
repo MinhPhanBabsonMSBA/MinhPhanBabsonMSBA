@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=MinhPhanBabsonMSBA)
 ## Hello, I'm Mike(Minh) Phan 👋 
 
- 🎓 **Business Analytics Student at Babson College Graduate School of Business**
- 
+ 🎓 **Business Analytics Student at Babson College Graduate School of Business**  
  Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
 
-📊 About Me 
+📊 About Me (**[Resume](https://drive.google.com/file/d/14RkZdF6tlFGsnvYX1GALVk4KYPNXOlRY/view?usp=sharing)**)
 
-I'm deeply interested in transforming data into actionable insights that drive decision-making and strategic improvements.My skill set includes:
+I'm deeply interested in transforming data into actionable insights that drive decision-making and strategic improvements. My skill set includes:
 
 - Data Analysis & Reporting: Skilled in SQL for data querying, generating reports, and performing ad-hoc analysis. 
 
@@ -21,7 +20,7 @@ I'm deeply interested in transforming data into actionable insights that drive d
 
 --------------------------------------------------------------------------------------------------------------
 
-
+https://drive.google.com/file/d/14RkZdF6tlFGsnvYX1GALVk4KYPNXOlRY/view?usp=sharing
 
 
 
