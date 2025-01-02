@@ -20,8 +20,6 @@ I'm deeply interested in transforming data into actionable insights that drive d
 
 --------------------------------------------------------------------------------------------------------------
 
-https://drive.google.com/file/d/14RkZdF6tlFGsnvYX1GALVk4KYPNXOlRY/view?usp=sharing
-
 
 
 | Tableau Projects                              | Python Projects                                      | SQL Projects                                           | R Projects                            |
