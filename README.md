@@ -4,7 +4,7 @@
  🎓 **Business Analytics Student at Babson College Graduate School of Business**  
  Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
 
-📊 About Me (**[Resume](https://drive.google.com/file/d/14RkZdF6tlFGsnvYX1GALVk4KYPNXOlRY/view?usp=sharing)**)
+📊 About Me (**[Resume](https://drive.google.com/file/d/1lFBeoxMBlsO0zY6_8RKSzbzPrvnJWl2-/view?usp=sharing)**)
 
 I'm deeply interested in transforming data into actionable insights that drive decision-making and strategic improvements. My skill set includes:
 
