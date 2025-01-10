@@ -26,7 +26,7 @@ I'm deeply interested in transforming data into actionable insights that drive d
 |-----------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|---------------------------------------|
 | [Capital Bikeshare Case Study](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study)          | [Film Rating and College GPA Prediction Project](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis) | [AdventureWorks Customer Segmentation Analysis](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation)    | [Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis) |
 | [Wayfair Case Study](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study)                      |           [Stock Analysis Project](https://github.com/MinhPhanBabsonMSBA/Stock-analysis-)                                            |                                                       |                                 | 
-[Blue Bike Case Study]()
+[Blue Bike Case Study](https://github.com/MinhPhanBabsonMSBA/Blue-Bike-Case-Study)
 
 
 
