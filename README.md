@@ -2,6 +2,8 @@
 ## Hello, I'm Mike (Minh) Phan 👋 
 
  🎓 **Business Analytics Student at Babson College Graduate School of Business**  
+
+ 
  Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
 
 📊 About Me (**[Resume](https://drive.google.com/file/d/1lFBeoxMBlsO0zY6_8RKSzbzPrvnJWl2-/view?usp=sharing)**)
