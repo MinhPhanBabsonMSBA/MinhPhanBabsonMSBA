@@ -5,9 +5,12 @@
  🎓 **Business Analytics Student at Babson College Graduate School of Business**  
 
 
-![Stats](https://leetcode-status.vercel.app/api/card/minhphanbabsonmsba?theme=light&hide_title=true&custom_title=)
 
- 
+![Leet Code Stats](https://leetcode-status.vercel.app/api/card/minhphanbabsonmsba?theme=dark&hidetitle=false&custom_title=LeetCode)
+
+
+
+
  Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
 
 📊 About Me (**[Resume](https://drive.google.com/file/d/1lFBeoxMBlsO0zY6_8RKSzbzPrvnJWl2-/view?usp=sharing)**)
