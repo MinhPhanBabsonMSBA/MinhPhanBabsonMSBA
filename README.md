@@ -7,10 +7,6 @@
 
 
 
-![Leet Code Stats](https://leetcode-status.vercel.app/api/card/minhphanbabsonmsba?theme=dark&hidetitle=false&custom_title=LeetCode)
-
-
-
 
 
 
