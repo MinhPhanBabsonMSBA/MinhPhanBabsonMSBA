@@ -7,7 +7,7 @@
 
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/<minhphanbabsonmsba>?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/<minhphanbabsonmsba>/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Minh_PhanBabson?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/Minh_PhanBabson/)
 
 
  Welcome to my portfolio! Here, you'll find a showcase of projects that demonstrate my expertise and passion for data.
