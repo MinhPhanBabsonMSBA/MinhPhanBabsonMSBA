@@ -24,7 +24,7 @@ Explore some of my key projects:
 | **Tableau Projects** | **Python Projects** | **SQL Projects** | **R Projects** |
 |----------------------|--------------------|------------------|--------------|
 | [Capital Bikeshare Case Study](https://github.com/MinhPhanBabsonMSBA/Bike-Share-Case-Study) | [Film Rating and College GPA Prediction](https://github.com/MinhPhanBabsonMSBA/Introduction?tab=readme-ov-file#film-label-prediction-and-college-gpa-data-analysis) | [AdventureWorks Customer Segmentation](https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation) | [Flight Delay Statistical Analysis](https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis) |
-| [Wayfair Case Study](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) | [Stock Prediction LSTM Project](https://github.com/MinhPhanBabsonMSBA/Stock-analysis-) | | |
+| [Wayfair Case Study](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study) | [Stock Analytics Project](https://github.com/MinhPhanBabsonMSBA/Stock-analysis-) | | |
 | [Blue Bike Case Study](https://github.com/MinhPhanBabsonMSBA/Blue-Bike-Case-Study) | | | |
 
 ---
